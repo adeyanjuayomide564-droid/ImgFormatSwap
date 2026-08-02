@@ -14,9 +14,9 @@ A Telegram bot that converts images to different formats: JPEG, PNG, WEBP, BMP, 
 
 ## 🛠️ Technologies Used
 
-- Python 3.10+
-- python-telegram-bot v20.0+
-- Pillow (PIL) for image processing
+- Python 3.11.11 (stable version)
+- python-telegram-bot v21.8
+- Pillow 11.0.0 for image processing
 - Deployed on Railway
 
 ## 🚀 Deployment on Railway
